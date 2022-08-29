@@ -1,0 +1,14 @@
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.exe
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.deps.json
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.json
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.runtimeconfig.dev.json
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.dll
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\bin\Debug\netcoreapp3.1\ReverseArray.pdb
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.AssemblyReference.cache
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfoInputs.cache
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.AssemblyInfo.cs
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.csproj.CoreCompileInputs.cache
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.dll
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.pdb
+C:\ShabbirAnsari\DSA\ReverseArray\ReverseArray\obj\Debug\netcoreapp3.1\ReverseArray.genruntimeconfig.cache
